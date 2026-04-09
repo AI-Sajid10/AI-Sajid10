@@ -33,6 +33,7 @@ A passionate programmer from Bangladesh, working on <b>Frontend Development</b> 
 <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>CSS</td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>
@@ -41,6 +42,7 @@ A passionate programmer from Bangladesh, working on <b>Frontend Development</b> 
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/><br/>Figma</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>CSS</td>
 </tr>
 </table>
 
