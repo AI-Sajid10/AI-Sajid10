@@ -49,3 +49,6 @@ A passionate programmer from Bangladesh, working on <b>Frontend Development</b> 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-sajid10&show_icons=true&locale=en&layout=compact" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ai-sajid10&theme=tokyonight&hide_border=true" />
+</p>
