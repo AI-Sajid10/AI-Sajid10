@@ -8,19 +8,26 @@ A passionate programmer from Bangladesh, working on <b>Frontend Development</b> 
 * 📧 Gmail: **[ahmedibrahimsajid@gmail.com](mailto:ahmedibrahimsajid@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ahmedibarhimsajid" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<h3 align="left">Connect with me:</h3>
+
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+
+<a href="https://fb.com/ahmedibarhimsajid" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/ahmed-ibrahim-sajid/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/ahmed-ibrahim-sajid/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="mailto:ahmedibrahimsajid@gmail.com" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
+
+<a href="mailto:ahmedibrahimsajid@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
 </a>
-<a href="https://ai-sajid10.github.io/my-portfolio/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" />
+
+<a href="https://ai-sajid10.github.io/my-portfolio/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" />
 </a>
+
 </p>
 
 <h3 align="left">🛠️ Tech Stack:</h3>
